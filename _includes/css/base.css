@@ -123,7 +123,10 @@
 	img.scale-with-grid {
 		max-width: 100%;
 		height: auto; }
-
+    
+    #logo {
+        max-width:50%
+    }
 
 /* #Buttons
 ================================================== */
