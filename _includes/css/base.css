@@ -47,7 +47,9 @@
 	table {
 		border-collapse: collapse;
 		border-spacing: 0; }
-
+    img {
+        width:100%
+    }
 
 /* #Basic Styles
 ================================================== */
@@ -114,8 +116,8 @@
 	ul ul li, ul ol li,
 	ol ol li, ol ul li { margin-bottom: 6px; }
 	li { line-height: 18px; margin-bottom: 12px; }
-	ul.large li { line-height: 21px; }
-	li p { line-height: 21px; }
+	ul.large li { line-height: 60px; }
+	li p { line-height: 60px; }
 
 /* #Images
 ================================================== */
